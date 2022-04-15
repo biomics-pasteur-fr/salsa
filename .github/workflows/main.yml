@@ -1,4 +1,4 @@
-name: Tests
+name: SALSA testing
 
 on:
   push:
@@ -31,7 +31,7 @@ jobs:
     - name: Install dependencies conda
       run: |
         conda install -c conda-forge --quiet mamba python=${{ matrix.python }}
-    - name: Install sequana with pip
+    - name: Install salsa with pip
       run: |
         pip install .[testing]
         pip install .
