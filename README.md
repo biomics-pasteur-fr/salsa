@@ -1,2 +1,3 @@
 # SALSA
-Set of scripts relatd to biomics projects
+Set of scripts related to biomics projects and provided by the SALSA group 
+
