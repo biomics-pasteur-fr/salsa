@@ -20,6 +20,14 @@ Set of scripts related to biomics projects and provided by the SALSA group
 :Python version: 3.7, 3.8, 3.9
 :Issues: `On github <https://github.com/biomics-pasteur-fr/salsa/issues>`_
 
+
+Installation
+============
+
+::
+
+    pip install pysalsa
+
 Tutorial
 =========
 
