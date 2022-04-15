@@ -1,4 +1,13 @@
-# Author: Thomas Cokelaer, April 2022
+#  This file is part of SALSA software
+#
+#  Copyright (c) 2022 - SALSA Development Team
+#
+#  Distributed under the terms of the 3-clause BSD license.
+#  The full license is in the LICENSE file, distributed with this software.
+#
+#  website: https://github.com/biomics-pasteur-fr/salsa
+#
+##############################################################################
 import pandas as pd
 from pylab import *
 import click

@@ -1,18 +1,16 @@
-#  This file is part of Sequana software
+#  This file is part of SALSA software
 #
-#  Copyright (c) 2016-2020 - Sequana Development Team
+#  Copyright (c) 2022 - SALSA Development Team
 #
 #  Distributed under the terms of the 3-clause BSD license.
 #  The full license is in the LICENSE file, distributed with this software.
 #
-#  website: https://github.com/sequana/sequana
-#  documentation: http://sequana.readthedocs.io
+#  website: https://github.com/biomics-pasteur-fr/salsa
 #
 ##############################################################################
 import click
 
-from sequana import version
-
+from . import version
 from .compute_ttest import compute_ttest
 
 CONTEXT_SETTINGS = {"help_option_names": ["-h", "--help"]}
