@@ -31,7 +31,7 @@ Installation
 Tutorial
 =========
 
-comute-test sub command
+compute-test sub command
 -----------------------
 
 Compute ttest of a input file that contains two groups of genes with their log2 fold change and pvalues. Input file has this header::
